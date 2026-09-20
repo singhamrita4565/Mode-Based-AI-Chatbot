@@ -8,7 +8,7 @@ print("Key Loaded:", os.getenv("MISTRAL_API_KEY") is not None)
 from langchain_mistralai import ChatMistralAI
 from langchain_core.messages import AIMessage, SystemMessage, HumanMessage
 
-model = ChatMistralAI(model="mistral-small-2603")
+model = ChatMistralAI(model="ministral-8b-latest")
 # to store history
 print("choose your ai mode")
 print("press 1 for angry mode")

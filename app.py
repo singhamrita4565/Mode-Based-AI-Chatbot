@@ -12,7 +12,7 @@ from langchain_core.messages import (
     SystemMessage,
 )
 
-model = ChatMistralAI(model="mistral-small-2603")
+model = ChatMistralAI(model="ministral-8b-latest")
 
 st.set_page_config(
     page_title="Mode Based AI Chatbot",
