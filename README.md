@@ -5,7 +5,6 @@
 Mode Based AI Chatbot is an interactive conversational AI application developed using **Python, Streamlit, LangChain, and Mistral AI**.
 
 The application allows users to interact with an AI chatbot while choosing from different personality modes. Each mode changes the way the AI responds to the user's messages.
-
 The chatbot currently provides three different personalities:
 
 * 😡 **Angry AI** – Responds in an aggressive and impatient style.
